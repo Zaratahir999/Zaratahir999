@@ -10,5 +10,5 @@ Welcome to my GitHub!
 - 💻 Coding Experience:
   - 🚀 Completed Full Stack Java Developer Programme
     - 💡 Skilled in Java development, applying principles of object-oriented programming for robust solutions
-    - 🧩 Organized code using MVC pattern for modular development
+    - 🧩 Organised code using MVC pattern for modular development
     - ⚡ Familiar with Agile methodology for efficient software projects
